@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Résultats de recherche</title>
+    </head>
+    <body> 
+        <div class="container">
+            <div class="row" style="padding-top:5%;">
+                </div>
+            </div>
+            <div class="container" style="padding-top:5%;">
+                <h3>{{titre}}</h3>
+                <p>Nous avons trouvé {{resultats.total}} Etudiant.e.s correspondant à votre recherche.</p>
+                <ul>
+                    <li>{{Etudiant.Nom}} {{Etudiant.Prenom}}</li>
+                </ul>
+                <nav aria-label="research-pagination">
+                    <ul class="pagination">
+                        <li class="page-item">{page}</li>
+                        <li class="page-item active disabled">
+                            <a class="page-link">{{page}}<span class="sr-only">(actuelle)</span></a>
+                        </li>
+                        <li class="page-item disabled">
+                            <a class="page-link">...</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+    </body>
+</html>
