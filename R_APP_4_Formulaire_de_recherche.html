@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Formulaire de recherche</title>
+    </head>
+    <body><!--Page contenant un formulaire de recherche-->
+        
+        <div class = "container" id="formulaire-recherche" style="padding-top: 5%; padding-bottom: 5%">
+            <h2>Formulaire de recherche</h2>
+            <form action="url_for('resultats_avances')" method="GET" id="recherche_form">
+                <div class="form-group">
+                    <label>Recherche plein texte dans tous les champs des notices</label>
+                    <input class="form-control" type="text" name="motclef" placeholder="Termes à rechercher">
+                </div>
+                <div class="form-group">
+                    <label>Etudiant</label>
+                    <select class="form-control" name="Etudiant">
+                        <option value="all">Sélectionner une valeur</option>
+                        
+                        <option value="{{Etudiant.Nom }}">{{Etudiant.Nom}}</option>
+                        <option value="{{Etudiant.Prenom }}">{{Etudiant.Prenom}}</option>
+                    </select>
+                </div>
+                
+                <div class="form-group">
+                    <label>Mémoire</label>
+                    <select class="form-control" name="Mémoire">
+                        <option value="all">Sélectionner une valeur</option>
+                      
+                        <option value="{{Memoire_ebad.Sujet}}">{{Memoire_ebad.Sujet}}</option>
+                        <option value="{{Memoire_ebad.Domaine_de_recherche}}">{{Memoire_ebad.Domaine_de_recherche}}</option>
+                        <option value="{{Memoire_ebad.Annee_soutenance}}">{{Memoire_ebad.Annee_soutenance}}</option>
+                    </select>
+                </div>
+                
+                <div class="form-group">
+                    <label>Directeur de Mémoire</label>
+                    <select class="form-control" name="Directeur_de_Memoire">
+                        <option value="all">Sélectionner une valeur</option>
+                        <option value="{{Directeur_de_Memoire.Nom_dir}}">{{Directeur_de_Memoire.Nom_dir}}</option>
+                        <option value="{{Directeur_de_Memoire.Prenom_dir}}">{{Directeur_de_Memoire.Prenom_dir}}</option>
+                    </select>
+                </div>
+                <button type="submit" class="btn btn-info btn-lg btn-responsive" id="search">Rechercher</button>
+            </form>
+        </div>
+    </body>
+</html>
