@@ -1,0 +1,366 @@
+id_Etudiant,Prénom_Etudiant,Nom_Etudiant,Nom_complet_Etudiant,Sujet_Mémoire,Domaine_recherche,Prénom_Directeur_Mémoire,Nom_Directeur_Mémoire,Nom_complet_Directeur_Mémoire,Année_soutenance,
+1,Kaltoum Mohamed,Abdi ,Kaltoum Mohamed Abdi ,Projet de création d’une Cellule d’Information et d’Orientation professionnelle (CIOP) pour les étudiants et diplômés de l’Université de Djibouti  ,Documentation,Mamadou,Diarra,Mamadou Diarra,2008,
+2,Vial Félix Martial,Agonglo,Vial Félix Martial Agonglo,Les outils de gestion et les outils de recherche à la Bibliothèque du siège de la Banque centrale des Etats de l’Afrique de l’Ouest,Bibliothéconomie,Abdou Karim,Diallo,Abdou Karim Diallo,2003,
+3,Kandioura,Aidara,Kandioura Aidara,Contribution d’un archiviste pour la création et la gestion d’un centre régional de l’Etat civil : exemple de la Région de Thiès (Sénégal),Archivistique,Ahmeth,Ndiaye,Ahmeth Ndiaye,1990,
+4,Jean-Baptiste Yao,Aizannon,Jean-Baptiste Yao Aizannon,Numérisation et mise en ligne d’une base de données des décisions de la Cour constitutionnelle du Bénin relatives à la violation des droits fondamentaux de la personne et des libertés publiques de 2008 à 2012,Informatique documentaire,Narcisse,Ekongolo,Narcisse Ekongolo,2012,
+5,Maria José da Conceiçâo,Almeida,Maria José da Conceiçâo Almeida,"
+Les archives coloniales conservées aux Archives historiques nationales du Cap-Vert : la situation actuelle et les instruments de recherche
+
+
+
+",Archivistique,Ibrahima,Lo,Ibrahima Lo,2004,
+6, Oumarou,Amadou,Oumarou Amadou,Conception d’un programme de gestion des documents administratifs pour la Présidence de la République du Niger,Archivistique,Mbaye,Thiam,Mbaye Thiam,2005,
+7,Ramatou,Amadou,Ramatou Amadou,Projet de création d’une bibliothèque numérique à l’Autorité du Bassin du Niger (ABN) ,Bibliothéconomie,Mody,Sow,Mody Sow,2008,
+8,Tahirou,Amadou,Tahirou Amadou,Image du professionnel de l’information documentaire face à l’émergence des NTIC. Défis et opportunités : cas du Niger,Documentation,Mamadou,Diarra,Mamadou Diarra,2005,
+9,Tahirou,Amadou,Tahirou Amadou,Projet de création d’un système d’informatisation intégré de l’IRD et de LASDEL du Niger,Documentation,Antoinette,Fall Corréa,Antoinette Fall Corréa,2007,
+10,Drabo E. Adjoa,Amoussou,Drabo E. Adjoa Amoussou,"Etat des lieux des compétences en recherche d’information des étudiants de Filière LMD : cas des étudiants de 1ère année de l’Université Intercontinentale Sup’ Managment de Ouagadougou, Burkina Faso",Documentation,Bernard,Dione,Bernard Dione,2015,
+11,Herizo,Andrianarijaona,Andrianarijaona   Herizo,Besoin et utilisation de l’information documentaire par les journalistes malgaches spécialisés en économie,Documentation,Mamadou ,Diarra,Mamadou Diarra,2004,
+12,Anne-Marie,Andrianasolo-Ralaivola,Anne-Marie Andrianasolo-Ralaivola,Stratégies pour la formation des utilisateurs. Une étude de cas : les usagers du service d’information documentaire de l’ENSUT   ,Documentation,Olivier,Sagna,Olivier Sagna,1990,
+13,Rahetilahy Willy Benjamin,Andrianomenjanahary,Rahetilahy Willy Benjamin Andrianomenjanahary,Contribution pour une automatisation de la recherche documentaire à la Bibliothèque de l’Académie malgache ,Informatique documentaire,Antoinette,Fall Corréa,Antoinette Fall Corréa,2004,
+14,Marie-Laure,Angoran,Marie-Laure  Angoran,Projet de mise en place d’un cabinet d’intelligence économique en Côte d’Ivoire,Documentation,Mamadou,Diarra,Mamadou Diarra,2008,
+15,Ousseynou,Anne,Ousseynou Anne,Essai de conception et de mise en place d’un réseau sectoriel d’information : Environnement- Hygiène-Santé     ,Documentation,Mohamed Fadhel,Diagne,Mohamed Fadhel Diagne,1994,
+16,Oumarou,Assoumi,Oumarou Assoumi,La pratique de l’évaluation des collections : quels enjeux pour la bibliothèque de lecture publique du Centre culturel Oumarou Ganda (CCOG) de Niamey (Niger) ?,Bibliothéconomie,Oumou,Sissoko,Oumou Sissoko,2008,
+17,Geneviève,Atéba Tigui, Geneviève Atéba Tigui,"Contribution à l’amélioration du dispositif de vulgarisation de l’information juridique à caractère public à la Bibliothèque de la Chancellerie du Cameroun 
+
+
+
+
+",Bibliothéconomie,François Malick,Diouf,François Malick Diouf,2014,
+18,Djissah Marius,Atohounton,Djissah Marius Atohounton,"Traitement, conservation et valorisation des archives audiovisuelles au siège de la Banque centrale des Etats de l’Afrique de l’Ouest",Archivistique,Ahmeth,Ndiaye,Ahmeth Ndiaye,2011,
+19,Jean-Constant Adou,Atta,Jean-Constant Adou Atta,Mise en place et diffusion du dépôt institutionnel électronique de l’ENS sous PMB,Informatique documentaire,Mody  ,Sow,Mody Sow,2011,
+20,Aïssatou,Ba,Aïssatou Ba,La bibliothèque du Centre de Recherches et de Documentation du Sénégal (CRDS) et son développement : propositions de réforme structurelle et technologique,Bibliothéconomie,Henri ,Sène ,Henri Sène ,2009,
+21,Amadou Tambary,Ba,Amadou Tambary,Gestion des publications officielles des collectivités locales : cas de la Direction des collectivités locales   ,Archivistique,Ahmeth,Ndiaye,Ahmeth Ndiaye,2015,
+22,Amadou Tidiane,Ba,Amadou Tidiane Ba,Conception et implantation d’un système de Gestion électronique des Documents (GED) à Family Health International (FHI)  ,Informatique documentaire,Mbaye  ,Thiam,Mbaye Thiam,2008,
+23,Djibril,Ba,Djibril Ba,Systèmes documentaires et éducation au Sénégal,Documentation,Mohamed Fadhel,Diagne,Mohamed Fadhel Diagne,1987,
+24,"Hamet
+
+
+
+
+
+
+
+
+
+
+",Ba,Hamet Ba,Gestion et traitement des documents télévisuels à la RTS (Société nationale de Radiodiffusion Télévision sénégalaise) : 1972 – 1980,Documentation,Oumou,Sissoko,Oumou Sissoko,2001,
+25,Mamadou Abdoulaye,Ba,Mamadou Abdoulaye Ba,Etude d’un système d’information pour le Ministère des Affaires étrangères et les missions diplomatiques et consulaires du Sénégal   ,Documentation,Samba,Aw,Samba Aw,2006,
+26,Mamadou,Ba,Mamadou Ba,Mise en place d’un système de veille à la Direction du Matériel et du Transit administratif (DMTA),Documentation,Ahmeth,Ndiaye,Ahmeth Ndiaye,2012,
+27,Moïse Aminata,Ba,Moïse Aminata Ba,L’impact de l’usage des outils du Web 2.0 en bibliothèque : cas de l’Ecole supérieure multinationale des Télécommunications (ESMT) ,Informatique documentaire,Djibril,Diakhaté,Djibril Diakhaté,2012,
+28,Mor,Ba,Mor Ba,Projet de numérisation des textes législatifs et réglementaires pris ou initiés par la Direction de la Comptabilité publique et du Trésor de 1960 à 2000   ,Archivistique,Ahmeth,Ndiaye,Ahmeth Ndiaye,2011,
+29,Mouhamadou El Bachir,Ba,Mouhamadou El Bachir Ba,Analyse des besoins et comportements d’information documentaire des usagers de la section médecine de la Bibliothèque centrale de l’Université de Dakar ,Documentation,Mody,Sow,Mody Sow,1997,
+30,Mouhamadou,Ba,Mouhamadou Ba,Dictionnaire biographique des parlementaires des VIIème et VIIIème législatures du Sénégal : (1988 – 1993 , 1993 – 1998),Documentation,Mody,Sow,Mody Sow,1999
+31,Odette Anne  Marie,Ba,Odette Anne Marie Ba,Projet de mise en place d’un dispositif de veille informationnelle à l’Agence pour la Sécurité de la navigation aérienne en Afrique et à Madagascar (ASECNA)   ,Documentation,Samba ,Aw,Samba Aw,2008,
+32,Ousseynou,Ba,Ousseynou Ba,Essai d’analyse des comportements et besoins en documentation des chercheurs en linguistique de l’Université Cheikh Anta DIOP de Dakar,Documentation,Mohamed Fadhel,Diagne,Mohamed Fadhel Diagne,1990,
+33,Ousseynou,Ba,Ousseynou Ba,"L’étude et l’organisation d’un réseau sectoriel de documentation sur les transports, l’équipement et le logement au Sénégal  ",Documentation,Mohamed Fadhel,Diagne,Mohamed Fadhel Diagne,1991,
+34,Thierno Ibrahima,Ba,Thierno Ibrahima Ba,Les sources sur l’Islam et les chefs religieux au Sénégal conservées aux Archives du Sénégal et à l’Institut fondamental d’Afrique noire Cheikh Anta Diop (1828-1960),Archivistique,Samba ,Aw,Samba Aw,2007,
+35,Ibra Bity,Badiane,Ibra Bity Badiane,"La mise en place d’un système d’archivage électronique dans une ONG internationale : le cas de TrustAfrica 
+
+
+
+
+
+",Archivistique,Moustapha ,Mbengue ,Moustapha Mbengue,2013,
+36,Jean Marie,Badji,Jean Marie Badji,La gestion des archives courantes et intermédiaires à la Direction de la dette Viagère du MEF du Sénégal : exemple des Archives des pensions,Archivistique,Ibrahima ,Lo,Ibrahima Lo,2006,
+37,Jean Marie,Badji,Jean Marie Badji,"Projet de classement et de numérisation des archives de la Division des Pensions de la Direction de la Solde, des Pensions et des Rentes viagères   ",Archivistique,Mody ,Sow,Mody Sow,2008,
+38,Richard Raoul,Badji,Richard Raoul Badji,Mise en place d’un système électronique de gestion de l’information en matière de passation des marchés publics au niveau de la Cellule de passation des Marchés publics (CPM) du Ministère de l’Economie et des Finances (MEF) du Sénégal,Informatique documentaire,Moustapha ,Mbengue,Moustapha Mbengue,2013,
+39,André Bazoin,Badolo,André Bazoin Badolo,Etude des besoins en documentation et des comportements des membres des corps de contrôle de l’enseignement primaire au Burkina Faso ,Documentation,Mohamed Fadhel ,Diagne,Mohamed Fadhel  Diagne,1990,
+40,Polycarpe Athanase,Bafo,Polycarpe Athanase,Utilisation du logiciel libre PMB pour la re-informatisation de la Bibliothèque du Centre culturel français Georges Méliès de Ouagadougou,Informatique documentaire,Mody ,Sow,Mody Sow,2008,
+41,Kodjo Banabessé,Bagna,Kodjo Banabessé Bagna,Conception et organisation d’un réseau documentaire à l’Université du Bénin de Lomé (Togo) ,Documentation,Henri ,Sène,Henri Sène,1997,
+42,Aïssatou Diallo,Bah,Aïssatou Diallo Bah ,Contribution à l’étude d’un réseau documentaire des institutions d’enseignement supérieur en Guinée  ,Documentation,Samba  ,Aw,Samba Aw,2005,
+43,André,Bakiono,André Bakiono,Dictionnaire bibliographique des députés du Burkina Faso de 1992 à 1997 : étude historico -critique   ,Documentation,Mody ,Sow,Mody Sow,2006,
+44,André,Bakiono,André Bakiono,Projet de réalisation d’un thésaurus des parlements des pays membres de l’UEMOA : contribution à un langage commun aux unités documentaires,Documentation,Mamadou,Diarra,Mamadou Diarra,2010,
+"45
+
+
+
+
+
+
+
+
+
+
+
+
+",El Hadji Boubacar,Ball,El Hadji Boubacar Ball,Essai d’évaluation des services et des collections de la Bibliothèque de l’Institut de Pédiatrie sociale de l’UCAD  ,Bibliothéconomie,Bernard,Dione,Bernard Dione,2003,
+46,Kassalo,Bamazi,Kassalo Bamazi,Etude diplomatique des documents du fonds judiciaire colonial (1819 -1958),Diplomatique,Ahmeth ,Ndiaye,Ahmeth Ndiaye,2001,
+47,Kassalo,Bamazi,Kassalo Bamazi,Mise en place d’un système d’information sur les résultats de la recherche agricole en Afrique de l’Ouest et du Centre   ,Documentation,Samba ,Aw,Samba Aw,2007,
+48,Marie Claudine,Bamurange,Marie Claudine Bamurange,"Implantation d’un centre de diffusion des connaissances et des recherches faites en santé par les institutions publiques et privées au Rwanda, période 2000-2011 : cas de l’Université nationale du Rwanda. Ecole de Santé publique  ",Documentation,Ibrahima ,Lo,Ibrahima Lo,2012,
+"49
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",Charles Henri,Bara,Charles Henri Bara,Répertoire analytique des mémoires de DEA soutenus à l’Institut africain de Développement économique et de Planification (IDEP) de 1985 à 2005 ,Bibliothéconomie,Mody ,Sow,Mody Sow ,2006,
+50,Béatrice,Barankéba,Béatrice Barankéba,Bibliographie sélective des documents portant sur le VIH / SIDA disponibles dans la Bibliothèque de l’Université du Burundi jusqu’en juin 2010 : cas de la Bibliothèque du Campus Kamenge : son élaboration et sa place dans la recherche documentaire   ,Bibliothéconomie,Henri ,Sène ,Henri Sène ,2010,
+51,Padré Lydie Josiane,Baroan-Dioumency,Padré Lydie Josiane,Contribution à la création d’un Réseau d’Information et de Documentation au Ministère de l’Economie et des Finances de la République de Côte-d’Ivoire (RIDI),Documentation,Omar,Diop,Omar Diop,1998,
+52,Adama,Barry,Adama Barry,Inventaire critique de la presse écrite sénégalaise de 1960 à 1985 ,Documentation ,Henri ,Sène,Henri Sène ,1987,
+53,Mamadou Lamarana,Barry,Mamadou Lamarana Barry,Les actes notariés aux Archives du Sénégal : catalogue des inventaires après décès,Archivistique,Ahmeth,Ndiaye,Ahmeth Ndiaye,1994,
+54,Mamadou Lamarana,Barry,Mamadou Lamarana Barry,Numérisation des archives de la BICIS  ,Archivistique,Mody ,Sow,Mody Sow,2010,
+"55
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",Namory,Barry,Namory Barry,La valorisation des thèses et mémoires soutenus au Département d’arabe de la Faculté des Lettres et Sciences humaines de l’Université Cheikh Anta Diop de Dakar : 1964 – 2004. Tome 2 : Répertoire analytique des thèses et mémoires soutenus  ,Bibliothéconomie,Babacar ,Samb,Babacar Samb ,2005,
+56,Ousmane,Barry,Ousmane Barry ,Projet de mise en place d’un dispositif de Knowledge managment entre l’Institut sénégalais de Recherches agricoles (ISRA) et le Conseil national de Concertation et de Coopération des Ruraux (CNCR)  ,Documentation,Samba,Aw,Samba Aw,2013,
+57,Ahoéfa Téribasanté,Bassalbia,Ahoéfa Téribasanté Bassalbia,L’émergence du secteur des produits et services d’information au Sénégal  ,Documentation,Olivier,Sagna,Olivier Sagna,1997,
+58,Landing,Bassène ,Landing Bassène,Projet de site Internet du Département d’Anglais de l’Université Cheikh Anta DIOP de Dakar (UCAD) ,Informatique documentaire ,Moustapha,Mbengue,Moustapha Mbengue,2010,
+"59
+
+
+
+
+
+
+
+
+
+
+",Marc Pascal,Bassène ,Marc Pascal Bassène,La problématique de l’accès à l’information documentaire dans l’administration publique du Sénégal   ,Documentation,Mbaye,Thiam ,Mbaye Thiam,2013,
+60,Valaire,Bassène,Valaire Bassène ,Etude diplomatique des documents d’archives de la Cour d’Appel de Dakar   ,Diplomatique,Ahmeth,Ndiaye,Ahmeth Ndiaye,2015,
+61,Cheikh Amala,Bathily,Cheikh Amala Bathily ,Le métier d’archiviste au Sénégal ,Archivistique,Saliou,Mbaye,Saliou Mbaye,2001,
+62,Kogoro Noëlie,Belemsigri-Milligo,Kogoro Noëlie Belemsigri-Milligo,Bibliothèque universitaire centrale de Ouagadougou (Burkina Faso) : quelle politique d’acquisition avec les Technologies de l’information et de la Communication ?   ,Bibliothéconomie,Abdou Karim,Diallo,Abdou Karim Diallo,2014,
+63,Mbaïssour,Benadjiel,Mbaïssour Benadjiel,"Evaluation de l’efficacité des systèmes d’information : cas de l’Institut national des Sciences de l’Education (INSE) du Tchad  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",Documentation,Mamadou ,Diarra,Mamadou Diarra,1986,
+64,Sékongo Mariam,Berte,Sékongo Mariam Berte  ,La conception et la mise en place d’un  portail documentaire pour l’Institut pédagogique national de l’Enseignement technique et professionnel (IPNETP)   ,Informatique documentaire,Moustapha ,Mbengue ,Moustapha Mbengue ,2011,
+65,Ibrahima,Beye,Ibrahima Beye,"La gestion des candidatures à l’Ecole des Douanes : vers une solution Gestion électronique de Documents – GED
+   ",Informatique documentaire,Mbaye,Thiam,Mbaye Thiam,2016,
+66,Ousseynou,Beye,Ousseynou Beye,Création d’une bibliothèque numérique des mémoires de fin d’études du Service de Documentation de l’ISFAR de Bambey,Informatique documentaire,Moustapha,Mbengue,Moustapha Mbengue  ,2016,
+"67
+
+
+
+
+
+
+
+
+
+
+",Georges Ebénézer,Bokally,Georges Ebénézer Bokally,Réflexion sur le réseau sectoriel recherche du Sénégal,Documentation,Olivier,Sagna,Olivier Sagna,1994,
+68,Sibiry,Bonze,Sibiry Bonze,Organisation d’un service de Lecture publique à Ouagadougou (Burkina Faso) : étude prospective ,Bibliothéconomie,Raphaël,Ndiaye ,Raphaël Ndiaye ,1987,
+"69
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",Ramatou,Boubacar,Ramatou Boubacar,Impacts de l’utilisation des ressources documentaires en ligne dans les travaux de recherche des étudiants en Master de l’Université Abdou Moumouni de Niamey,Documentation,Moustapha,Mbengue ,Moustapha Mbengue ,2014,
+70,Sabine Nougaha Sézine,Bowong ,Sabine Nougaha Sézine Bowong,Conception et mise en place d’un Système d’archivage électronique (SAE) aux Archives nationales du Cameroun : cas du fonds allemand et des journaux officiels ,Archivistique,Mody,Sow,Mody Sow,2011,
+71,Noukpo Gisèle Désirée,Brahi Sehlin ,Noukpo Gisèle Désirée Brahi Sehlin,Contribution à l’évaluation du projet documentaire « Bibliomines » au Centre de Formation aux Actions post-conflictuelles de Déminage et de Dépollution,Bibliothéconomie,Mamadou,Diarra,Mamadou Diarra,2013,
+72,Oziankom Willy,Bunduki,Oziankom Willy Bunduki,L’identité professionnelle des bibliothécaires de l’Université Cheikh Anta Diop de Dakar à l’ère des Technologies de l’Information et de la Communication  ,Bibliothéconomie,Bernard,Dione,Bernard Dione,2011,
+"73
+
+
+
+
+
+
+
+",Bryand,Bwettou-Moussad,Bryand Bwettou-Moussad,Numérisation des documents à la Bibliothèque universitaire de Brazzaville ,Bibliothéconomie ,Mody,Sow,Mody Sow,2008,
+74,Alseny Aissata,Camara,Alseny Aissata Camara,Bibliographie analytique des mémoires soutenus à la Faculté des Sciences sociales : cas du Département de Sociologie de l’Université Julius Nyerere de Kankan de 2000 à 2010,"Bibliothéconomie
+
+
+
+
+
+
+
+
+
+",Mamadou,Diarra,Mamadou Diarra ,2016,
+75,Aly,Camara,Aly Camara,Analyse des besoins et sources d’information et de documentation des journalistes de la presse écrite de la radiodiffusion et de la Télévision du Sénégal  ,Documentation,Kalidou,Kane,Kalidou Kane,1985,
+76,Ndéye Coumba,Camara,Ndéye Coumba Camara,"La liste d’autorité : un guide d’indexation pour le fonds documentaire de la Direction générale de la Comptabilité publique et du Trésor (DGCPT)  
+",Documentation,Samba ,Aw,Samba Aw,2011,
+77,Souleymane,Camara,Souleymane Camara,Le Centre d’Information et de Documentation (CID) du CONGAD et les ONG : bilan et perspectives,Documentation,Olivier,Sagna,Olivier Sagna,1996,
+78,Serge Nabaline,Campal,Serge Nabaline Campal,"Inventaire et classement de la sous-série 5Q du fonds AOF conservée aux Archives nationales du Sénégal : les Sociétés de Prévoyance, les Coopératives, les Sociétés mutuelles de Production rurale et les Sociétés mutuelles de Développement rural (1919 – 1959)","Archivistique
+
+
+
+
+
+
+
+
+
+
+
+
+
+",Saliou,Mbaye,Saliou Mbaye,2000,
+79,Alfred Cossi,Chodaton,Alfred Cossi Chodaton,Archives et gouvernance publiques au Bénin : état des lieux et perspectives,Archivistique,Mbaye,Thiam,Mbaye Thiam,2011,
+80,Massamba,Cisée,Massamba Cisée,Projet de portail documentaire pour le Système national de Recherche agricole et agroalimentaire (SNRAA) du Sénégal,Informatique documentaire,Samba ,Aw,Samba Aw,2017,
+81,Alioune Badara,Ciss,Alioune Badara Ciss, Répertoire analytique des arrêts du Conseil d’Etat du Sénégal de 1992 à 2002,Archivistique,Mody,Sow,Mody Sow,2005,
+82,Aïssata,Cissé,Aïssata Cissé,"Etude comparative des SIGB des BU sénégalaises : Advance, Alexandrie et PMB",Informatique documentaire ,Mody,Sow,Mody Sow,2014,
+83,Alioune Badara,Cissé,Alioune Badara Cissé,Les sources de l’histoire économique et sociale du Sénégal conservées aux Archives du Sénégal (1816 – 1920),Archivistique,Mbaye ,Thiam,Mbaye Thiam  ,1989,
+84,Aminata,Cissé,Aminata Cissé,Etude des besoins documentaires des usagers du service de documentation du Ministère de l’Economie et des Finances de Côte d’Ivoire,Documentation ,Mody ,Sow,Mody Sow  ,2015,
+85,Awa Ba,Cissé ,Awa Ba Cissé ,Nouvelles technologies de l’information et de la Communication (NTIC) et valorisation des archives : l’exemple du projet de numérisation des archives de la traite des esclaves,"Archivistique 
+
+
+
+
+
+
+
+
+
+
+
+
+
+",Saliou ,Mbaye ,Saliou Mbaye ,2004,
+86,Awa,Cissé,"Awa Cissé
+
+
+
+
+
+
+
+
+
+",Pratiques et comportements d’information documentaire des apprenants à distance : exemple du second cycle de l’EBAD,Documentation,Ahmeth ,Ndiaye,Ahmeth Ndiaye   ,2006,
+87,Charles,Cissé,Charles Cissé,L’accès à l’information électronique : le cas des étudiants de la section de Sociologie de l’Université Gaston Berger de Saint-Louis ,Documentation,Ahmeth,Ndiaye,Ahmeth Ndiaye,2002,
+88,Djibril,Cissé,Djibril Cissé,Etude des besoins et des comportements d’information des utilisateurs de la documentation centrale d’ENDA Tiers - Monde à Dakar,Documentation,Mody ,Sow,Mody Sow,1998,
+89,El Hadji Malick,Cissé,El Hadji Malick Cissé,Etude des besoins et comportements en documentation des élèves-ingénieurs de l’Ecole Polytechnique de Thiès (EPT)  ,Documentation,Mody,Sow,Mody Sow ,1992,
+90,Fatoumata,Cissé,Fatoumata Cissé,Les sources de l’histoire de l’esclavage conservées aux Archives nationales du Sénégal : 1848 – 1904,Archivistique,Ibrahima,Lo,Ibrahima Lo,2000,
+91,Khayrou,Cissé,Khayrou Cissé,Les produits et services documentaires issus de la base de données commune de l’ISRA,Documentation,Mody,Sow,Mody Sow,1992,
+92,Maïmouna Diallo,Cissé,Maïmouna Diallo Cissé,Conception et mise en place d’un Système intégré de Gestion de l’Information à Enda Tiers – Monde,Documentation,Mamadou ,Diarra,Mamadou Diarra ,2006,
+93,Mamadou,Cissé,Mamadou Cissé,Besoins et circuits de l’information en milieu rural : cas de Fissel   ,Documentation,Antoinette ,Fall Corréa,Antoinette Fall Corréa,1997,
+94,Mamadou,Cissé,"Mamadou Cissé
+
+
+
+
+",Dictionnaire biographique des  députés de la XIIème législature du Sénégal : 2012 - 2017 ,Documentation,Mody,Sow,Mody Sow ,2014,
+95,Massamba,Cissé,Massamba Cissé,Etude de développement d’un service d’information documentaire d’entreprise : cas du Service Documentation et Archives de la Société nationale des Habitations à Loyer moderne,Archivistique et Documentation,Mamadou ,Diarra,Mamadou Diarra ,1989,
+96,Mouhamadou Lamine,Cissé,Mouhamadou Lamine Cissé, Propositions pour une normalisation des pratiques archivistiques au Sénégal ,Archivistique ,Ahmeth ,Ndiaye ,Ahmeth Ndiaye ,1994,
+97,Moussa,Cissé,Moussa Cissé ,Création d’une bibliothèque électronique des mémoires soutenus au CESTI de 2001 à 2009,Informatique documentaire ,Mody,Sow,Mody Sow,2010,
+98,Ndiakhaté,Cissé,Ndiakhaté Cissé,Etude diplomatique des rapports établis dans le secteur de l’instruction publique en Afrique occidentale française : le cas du Sénégal de 1895 à 1930,Diplomatique ,Ibrahima ,Lo ,Ibrahima Lo  ,1999,
+99,Abibou,Coly,Abibou Coly ,Etude des besoins et comportements d’informations documentaires des journalistes du Groupe Walfadjride  ,Documentation ,Mody ,Sow,Mody Sow ,2000,
+100,Benjamin,Coly,Benjamin Coly ,Les sources de l’histoire de l’enseignement en Casamance conservées aux Archives nationales du Sénégal (1860 – 1960),Archivistique ,Saliou ,Mbaye ,Saliou Mbaye   ,2006,
+101,Jean Claude Réginal,Coly,Jean Claude Réginal Coly ,Projet de création d’un service intégré de gestion de l’information à la Présidence de la République ,Documentation,Mody ,Sow,Mody Sow,2005,
+102,Bakary,Coulibaly ,  Bakary Coulibaly,Etude des activités de promotion de la lecture publique au Mali de 1977 à 2005,Bibliothéconomie,Antoinette, Fall Corréa,Antoinette Fall Corréa,2006,
+103,Dia Edith Traoré,Coulibaly ,Dia Edith Traoré Coulibaly ,"Mise en place d’un système de veille informationnelle, scientifique et technique à l’Institut supérieur des Sciences de la Population (ISSP) de l’Université de Ouagadougou – Burkina Faso",Documentation,Samba ,Aw,Samba Aw,2011,
+104,Doukaye,Coulibaly,Doukaye Coulibaly, L’apport des réseaux sociaux en bibliothèque : cas de Facebook dans les bibliothèques de Bamako ,Informatique documentaire,Djibril,Diakhaté ,Djibril Diakhaté  ,2011,
+105,Sène Sénébou,Coulibaly,Sène Sénébou Coulibaly,Projet de création d’une bibliothèque numérique des mémoires de la Bibliothèque centrale de l’Ecole nationale de Santé publique de Ouagadougou (Burkina Faso),Informatique documentaire,Abdou Karim,Diallo,Abdou Karim Diallo ,2009,
+106,Souleymane,Coulibaly,Souleymane Coulibaly, Le livre et la lecture dans les familles burkinabé : le cas de la ville de Ouagadougou ,Bibliothéconomie,Raphaël ,Ndiaye,Raphaël Ndiaye  ,1989,
+107,Yâa Rodrigue,Dabire,Yâa Rodrigue Dabire,Les sources de l’histoire économique et sociale de la Haute-Volta conservées aux Archives nationales du Sénégal : 1920 - 1960  ,Archivistique,Ahmeth,Ndiaye ,Ahmeth Ndiaye,2006,
+108,Ibrahim ,Dade,Ibrahim Dade,"Projet de système d’information cartographique (SIC) : structuration d’un référentiel ou modèle de base de données et outils méthodologiques pour la gestion cartographique dans quatre (4) pays  membres de   l’Union économique et monétaire Ouest africaine (UEMOA) : Burkina Faso, Mali, Niger, Sénégal",Documentation,Mody ,Sow  ,Mody Sow  ,2007,
+109,Ibrahim,Dade,Ibrahim Dade,Réorganisation du fonds documentaire de la Direction des Travaux géographiques et cartographiques (DTGC) du Sénégal  ,Bibliothéconomie,Mody,Sow ,Mody Sow ,2005,
+110,Holonou Komlan,Danklou,Holonou Komlan Danklou, Guide des sources de l’histoire du Togo dans le fonds AOF (1884 – 1960),Archivistique,Antoine ,Tendeng ,Antoine Tendeng  ,1999,
+111,Mouhamadou,Daouda,Mouhamadou Daouda,La gestion des archives de la justice au Sénégal : le cas du Centre national des Archives judiciaires,Archivistique,Ahmeth ,Ndiaye ,Ahmeth Ndiaye  ,2015,
+112,Amidou,Dembelé,Amidou Dembelé, Les professionnels de l’information documentaire au Mali : situation et perspectives  ,Documentation,Olivier,Sagna ,Olivier Sagna,1999,
+113,Aboubakry,Dia,Aboubakry Dia,Etude pour l’informatisation de la Bibliothèque de l’Ecole polytechnique de Thiès à partir du logiciel libre PMB,Informatique documentaire,Mbaye ,Thiam,Mbaye Thiam  ,2008,
+114,Amadou Tidiane,Dia,Amadou Tidiane Dia  ,Réflexions sur l’expérience de la politique nationale de l’information et de la documentation au Sénégal,Documentation,Henri ,Sène ,Henri Sène ,1986,
+115,Amath,Dia,Amath Dia,"L’utilisation de l’information scientifique, technique et économique en milieu industriel sénégalais",Documentation,Mohamed Fadhel,Diagne ,Mohamed Fadhel Diagne ,1991,
+116,Mamadou,Dia,Mamadou Dia,Le marché de l’information documentaire : émergence de cabinets privés de consultation en sciences de l’information documentaire au Sénégal  ,Consultation ,Samba ,Aw,Samba Aw,2013,
+117,Lamine,Diabaye,Lamine Diabaye,Numérisation des dossiers d’étudiants de la Faculté des Lettres et Sciences humaines,Archivistique,Ibrahima ,Lo ,Ibrahima Lo  ,2011,
+118,Méda Benoîta Ano Diereyir,Diagbouga,Méda Benoîta Ano Diereyir Diagbouga,Création d’une bibliothèque numérique à partir des productions scientifiques de l’Institut de l’Environnement et de Recherches agricoles (INERA) ,Informatique documentaire,Diéyi,Diouf ,Diéyi Diouf  ,2011,
+119,Anne Marie Diop,Diagne,Anne Marie Diop Diagne,La coopération décentralisée au Sénégal de 1996 à 2005 : étude de cas des collectivités locales de la Région de Dakar ,Documentation,Ahmeth,Ndiaye  , Ahmeth Ndiaye  ,2006,
+120,Chérif Oumar,Diagne,Chérif Oumar Diagne , Introduction à l’étude de la rationalisation du système d’information et de documentation des corps de contrôle de la Présidence de la République du Sénégal : perspectives d’informatisation  ,Documentation,André, Ehimba  ,André Ehimba  ,1986,
+121,El-Hadj Mouhamadou Lamine,Diagne,El-Hadj Mouhamadou Lamine Diagne,L’accès aux publications au Sénégal ,Documentation,Mody,Sow ,Mody Sow ,1987,
+122,Kebe Aïssatou,Diagne,Kebe Aïssatou Diagne,La documentation audiovisuelle face aux besoins des utilisateurs : étude de cas,Documentation,Amadou Kamir ,Doumbia ,Amadou Kamir Doumbia ,1985,
+123,Ndiaye Marie,Diagne,Ndiaye Marie Diagne,Mise en place d’un système d’information documentaire à la SICAP SA,Archivistique,Mbaye,Saliou ,Saliou Mbaye,2005,
+124,Oulimata,Diagne,Oulimata Diagne, Le Centre national de Documentation scientifique et technique (CNDST) : bilan et perspectives dans les années 2000,Documentation,Samba,Aw,Samba Aw  ,2014,
+125, Raky Seck,Diagne,Raky Seck Diagne ,Esquisse d’un schéma de décentralisation de la documentation sanitaire au Sénégal ,Documentation,Mody ,Sow,Mody Sow,1994,
+126,Thiané,Diagne,Thiané Diagne,Répertoire analytique des rapports publiés par Amnesty International sur l’Afrique de l’Ouest de 1990 à 2005,Archivistique,Mody,Sow,Mody Sow,2006,
+127,Abdoulaye,Diakhaté ,Abdoulaye  Diakhaté,La société pétrolière Total Sénégal : Répertoire numérique détaillé du fonds de la Direction technique et Achats relatif aux stations service et postes de pêche 1945 - 2005   ,Archivistique,Ahmeth ,Ndiaye ,Ahmeth Ndiaye,2006,
+128,Adama,Diakhaté ,Adama Diakhaté ,Contribution à la description de la série B des archives de l’AOF : répertoire thématique ,Archivistique,Ahmeth,Ndiaye ,Ahmeth Ndiaye ,1992,
+129,Badem Sokhna,Diakhaté,Badem Sokhn Diakhaté, L’évaluation des collections de la Bibliothèque centrale de l’Université Alioune Diop de Bambey,Bibliothéconomie,Bernard ,Dione ,Bernard Dione  ,2016,
+130,Boubacar,Diakhaté,Boubacar Diakhaté,Etude bibliométrique du fonds ancien du CRDS : ressources relatives à Saint - Louis ,Bibliométrie,Abdou Karim,Diallo,Abdou Karim Diallo ,2003,
+131,Djibril,Diakhaté,Djibril Diakhaté,Mise en place d’un dispositif de veille informationnelle dans les PME et PMI de pêche et de conserverie de produits halieutiques au Sénégal,Documentation,Samba,Aw, Samba Aw ,2005,
+132,Sérigne Ndiaga,Diakhaté,Sérigne Ndiaga  Diakhaté, Etude comparative de deux modules de gestion des périodiques à la Bibliothèque universitaire Cheikh Anta DIOP de Dakar : « Advance et Data Trek »  ,Bibliothéconomie,Mody,Sow,Mody Sow,2004,
+133,Amadou,Diallo,Amadou Diallo,Répertoire chronologique et analytique des textes et décrets de restructuration du gouvernement en République de Guinée de 1958 à 2008 ,Archivistique,Mody,Sow,Mody Sow,2011,
+134,Assane,Diallo,Assane Diallo,Les archives du gouvernement général de l’Afrique occidentale française : problématique de la gestion de la propriété et de l’exploitation,Archivistique,Ousmane,Sané ,Ousmane Sané ,1989,
+135,Boukaré,Diallo,Boukaré Diallo,Stratégies de collecte et de gestion des ressources patrimoniales dans les Bibliothèques nationales des pays d’Afrique francophone subsaharienne : le cas du Burkina Faso ,Bibliothéconomie,Antoinette ,Fall Corréa ,Antoinette Fall Corréa ,2005,
+136,Dao Aminata,Diallo,Dao Aminata Diallo,Projet de numérisation des archives scientifiques de l’Organisation ouest africaine de la Santé,Archivistique,Ahmeth ,Ndiaye ,Ahmeth Ndiaye ,2008,
+137,Djibril,Diallo,Djibril Diallo ,Projet de mise en place d’un système d’information documentaire au GEEP (Groupe pour l’Etude et l’Enseignement de la Population),Documentation,Djibril ,Diakhaté  ,Djibril Diakhaté ,2013,
+138,Mamadou Bila ,Diallo ,Mamadou Bila Diallo ,Répertoire des tradipraticiens de santé de la Région de Dakar : Département de Dakar Pikine et Guédiawaye ,Documentation,Mody,Sow,Mody Sow ,2005,
+139,Moustapha,Diallo ,Moustapha Diallo,La contribution des produits documentaires à l’information sur le VIH / SIDA : le cas de l’Africa Consultants International (ACI),Documentation,Mamadou,Diarra ,Mamadou Diarra  ,2002,
+140,Nassa Traoré,Diallo,Nassa Traoré Diallo,Quel service d’information documentaire pour l’Assemblée nationale du Burkina Faso ?  ,Documentation,Ibrahima ,Lo ,Ibrahima Lo,2004,
+141,Ousmane ,Diallo ,Ousmane Diallo ,La gestion documentaire du courrier électronique au Bureau de l’OMS – Dakar (Organisation mondiale de la Santé),Archivistique,Ahmeth,Ndiaye,Ahmeth Ndiaye,2002,
+142,Souleymane,Diallo ,Souleymane Diallo ,Implantation d’un Centre de documentation d’information  et de communication (CE.D.I.C) dans la commune d’arrondissement de Grand Yoff,Documentation,Antoinette,Fall Corréa ,Antoinette Fall Corréa ,2010,
+143,Mohamed Alassane,Diarah,Mohamed Alassane Diarah ,Contribution à l’organisation de l’information scientifique et technique au Mali : étude d’un modèle de Centre national d’Information et de Documentation ,Documentation,Mohamed Fadhel, Diagne,Mohamed Fadhel Diagne,1989,
+144,Arona,Diarra,Arona Diarra,Etude des besoins et méthodes d’information des chercheurs de l’Institut pédagogique du Burkina (IPB)  ,Documentation,Mamadou,Diarra ,Mamadou Diarra  ,1986,
+145,Marie Jeanne,Diasso,Marie Jeanne Diasso, L’évolution de la profession d’archiviste au Burkina Faso de 1963 à 2004 : évaluation et perspectives,Archivistique,Mbaye ,Thiam,Mbaye Thiam  ,2005,
+146,Eugène,Diatta,Eugène Diatta,Traitement de l’Information scientifique et technique – IST dans les réseaux électroniques Genre,Documentation,Ibrahima ,Lo ,Ibrahima Lo,2002,
+147,Alain François,Diatta,Alain François Diatta , Etude des besoins et comportements des utilisateurs du Centre de documentation de l’Agence nationale de la Statistique et de la Démographie (ANSD),Documentation,Mamadou ,Diarra,Mamadou Diarra,2012,
+148,Ouoba Lydie,Diatto,Ouoba Lydie Diatto,Projet de mise en place d’un système de gestion électronique des documents de l’Unité de Communication et de Documentation du Programme Afrique du Centre et de l’Ouest de l’Union mondiale pour la Conservation de la nature (UICN PACO),Informatique documentaire,Mody,Sow,Mody Sow,2009,
+149,Dieng Sanou,Diaw,Dieng Sanou Diaw,Etude diplomatique des archives des institutions parlementaires du Sénégal : l’Assemblée constituante (1958-1959) et l’Assemblée législative (1959 -1960)  ,Diplomatique,Ahmeth,Ndiaye ,Ahmeth Ndiaye,2015,
+150,Pouye Ramatoulaye Dibor,Diaw,Pouye Ramatoulaye Dibor Diaw, Audit du Catalogue universitaire de Recherche interactive (CAURI) de la Bibliothèque centrale de l’Université Cheikh Anta DIOP de Dakar : ouvrage et publications en série imprimés,Bibliothéconomie,Diéyi,Diouf,Diéyi Diouf ,2012,
